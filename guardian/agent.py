@@ -9,7 +9,7 @@ load_dotenv()
 # Endpoint URL provided by your vLLM deployment
 api_base_url = os.environ.get("VLLM_LB_URL", "https://34.9.189.157/v1/")
 # Model name as recognized by *your* vLLM endpoint configuration
-model_name_at_endpoint = os.environ.get("VLLM_MODEL_NAME", "/mnt/models/gemma-3-1b-it")
+model_name_at_endpoint = os.environ.get("VLLM_MODEL_NAME", "/mnt/models/gemma-4-E2B-it")
 
 print(api_base_url)
 
