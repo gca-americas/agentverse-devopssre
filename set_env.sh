@@ -122,13 +122,13 @@ export VPC_NETWORK="default"
 echo "Exported VPC_NETWORK=$VPC_NETWORK"
 
 
-export MODEL_ID="google/gemma-3-1b-it"
+export MODEL_ID="google/gemma-4-E2B-it"
 echo "Exported MODEL_ID=$MODEL_ID"
 
 export ARMOR_ID=$PROJECT_ID"_ARMOR_ID"
 echo "Exported ARMOR_ID=$ARMOR_ID"
 
-export VLLM_MODEL_NAME="/mnt/models/gemma-3-1b-it"
+export VLLM_MODEL_NAME="/mnt/models/gemma-4-E2B-it"
 echo "Exported export VLLM_MODEL_NAME=$VLLM_MODEL_NAME"
 
 export VLLM_LB_URL="${VLLM_URL}/v1"
