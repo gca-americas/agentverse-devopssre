@@ -94,7 +94,7 @@ opentelemetry-semantic-conventions==0.59b0
 packaging==26.3
 propcache==0.5.4
 proto-plus==1.28.2
-protobuf==5.29.5
+protobuf==5.29.6
 pyarrow==26.0.0
 pyasn1==0.6.4
 pyasn1_modules==0.4.2
