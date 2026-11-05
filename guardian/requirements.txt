@@ -96,7 +96,7 @@ propcache==0.5.4
 proto-plus==1.28.2
 protobuf==5.29.5
 pyarrow==26.0.0
-pyasn1==0.6.4
+pyasn1==0.6.5
 pyasn1_modules==0.4.2
 pycparser==3.11
 pydantic-settings==2.16.0
